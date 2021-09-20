@@ -1,0 +1,16 @@
+li {
+    color: blue !important;
+    display: flex;
+}
+.auth {
+    padding-left: 5% !important;
+    justify-content: space-around;
+}
+.ul_auth {
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+}
+.noir {
+    color: black;
+}
